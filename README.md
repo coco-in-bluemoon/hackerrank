@@ -9,3 +9,5 @@
 - [Swap Nodes\[Algo\]](Interview%20Preparation%20Kit/Search/Swap%20Nodes%20[Algo]/solution.py)
 - [Pairs](Interview%20Preparation%20Kit/Search/Pairs/solution.py)
 - [Tiple Sum](Interview%20Preparation%20Kit/Search/Triple%20Sum/solution.py)
+- [Minimum Time Requires](./Interview%20Preparation%20Kit/Search/Minimum%20Time%20Required/solution.py)
+- [Tiple Sum](./Interview%20Preparation%20Kit/Search/Maximum%20Subarray%20Sum/solution.py)
