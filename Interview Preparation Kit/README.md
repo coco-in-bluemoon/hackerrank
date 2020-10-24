@@ -15,4 +15,7 @@
 - 시간 효율성을 위해서 집합(set) 활용
 
 ### [Triple Sum](Interview%20Preparation%20Kit/Search/Triple%20Sum/solution.py)
-- 시간 효율성을 위해서 집합(set) 활용
+- 시간 효율성을 위해서 정렬된 집합(set) 활용
+
+### [Minimum Time Required](./Search/Minimum%20Time%20Required/solution.py)
+- BST
